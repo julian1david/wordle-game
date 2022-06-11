@@ -46,5 +46,32 @@ ul{
         background-color: $yellow;
         color: black;
         opacity: 0.5;
-      }
+    }
+}
+
+#grid{
+    margin: 20px 0;
+}
+
+.board{
+    display: flex;
+    &__item{
+        border: 1px solid $yellow;
+        width: 45px;
+        height: 45px;
+        margin: 0 4px;
+    }
+}
+
+
+.grey{
+    background-color: grey;
+}
+
+.green{
+    background-color:  green;
+}
+
+.yellow{
+    background-color: $yellow;
 }

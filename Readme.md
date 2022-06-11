@@ -13,17 +13,9 @@ Mira **[Wordle-Page](https://julian1david.github.io/wordle-game/)** para conocer
 git clone https://github.com/julian1david/wordle-game
 ```
 
-### Run with webpack 🔧
+### Run  🔧
 
-To install dependences
-
-```
-    npm install
-```
-
-```
-    npm run start
-```
+* Open de index file in public/index.html
 
 ## Construido con 🛠️
 
@@ -31,7 +23,6 @@ To install dependences
 * HTML
 * CSS
 * JavaScript
-* Webpack
 
 ## Contribuyendo 🖇️
 

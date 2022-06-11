@@ -49,4 +49,30 @@ ul {
   opacity: 0.5;
 }
 
+#grid {
+  margin: 20px 0;
+}
+
+.board {
+  display: flex;
+}
+.board__item {
+  border: 1px solid rgba(255, 255, 0, 0.2);
+  width: 45px;
+  height: 45px;
+  margin: 0 4px;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: rgba(255, 255, 0, 0.2);
+}
+
 /*# sourceMappingURL=style.css.map */
