@@ -3,11 +3,6 @@
 A simple game of wordle game 
 
 
-## Vista del proyecto 🚀
-
-Mira **[Wordle-Page](https://julian1david.github.io/wordle-game/)** para conocer como funciona el proyecto.
-
-
 ### Instalación 🔧
 
 ```
